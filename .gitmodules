@@ -1,0 +1,9 @@
+[submodule "dev"]
+	path = dev
+	url = https://github.com/zz38/dev.git
+[submodule "b"]
+	path = b
+	url = https://github.com/zz38/b.git
+[submodule "git"]
+	path = git
+	url = https://github.com/zz38/git.git
